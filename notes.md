@@ -14,3 +14,10 @@ charts.yaml
 templates(inside this we will be placing all the manifest files)
 
 values.yaml
+
+azure files(efs)
+azure disks(ebs)
+
+if we create a stateful set with pvc 
+
+
